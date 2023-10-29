@@ -1,4 +1,4 @@
-# CancerDetectionAI
+# CancerDetectionAI by Arjun Singh
 This project takes in a CT scan of the brain and classifies if it has no tumor, a pituitary tumor, a glioma tumor, or a meningioma tumor.
 
 In this repository there are two files- Project Development and Presentation.
