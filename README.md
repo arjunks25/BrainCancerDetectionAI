@@ -15,10 +15,9 @@ CancerDetectionAIPresentation.ipynb File-
   
   Here are the output images in the presentation file for easier access-
     
-    ![image](https://github.com/arjunks25/CancerDetectionAI/assets/102838869/38a6ce41-fe7e-4866-9364-f894fa0fe2c2)
+![image](https://github.com/arjunks25/CancerDetectionAI/assets/102838869/38a6ce41-fe7e-4866-9364-f894fa0fe2c2)
     ![image](https://github.com/arjunks25/CancerDetectionAI/assets/102838869/d610504b-0b30-4a3c-ab4b-541b79750c1c)
     ![image](https://github.com/arjunks25/CancerDetectionAI/assets/102838869/f3810386-d31a-4bdd-8158-05f44bf94f1a)
-
     
 
   
