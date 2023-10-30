@@ -12,7 +12,7 @@ CancerDetectionAI.ipynb File-
   To fix this I saved the trained model to my google drive immediatly after it finished training so that I could access it later.
 
 CancerDetectionAIPresentation.ipynb File-
-  This file imports the model from Google Drive and tests it. It's main funtion though is to present the accuracy by outputting a graph and some images with labels.
+  This file imports the model from Google Drive and tests it. It's main funtion though is to present the accuracy by outputting a graph and some images with predicted and actual labels.
   This file was just used to present the final trained model in a more practical way.
   
   Here are the output images in the presentation file for easier access-
