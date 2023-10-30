@@ -1,7 +1,9 @@
 # CancerDetectionAI by Arjun Singh
 This project takes in a CT scan of the brain and classifies if it has no tumor, a pituitary tumor, a glioma tumor, or a meningioma tumor.
 
-In this repository there are two files- Project Development and Presentation.
+Here is the Public Domain Kaggle Dataset link- https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?rvi=1
+
+In this repository there are two files- CancerDetectionAI and CancerDetectionAIPresentation.
 
 CancerDetectionAI.ipynb File-
   This file contains the code that imports the data, creates the CNN, creates the training and testing datasets, trains the CNN, and tests the CNN.
