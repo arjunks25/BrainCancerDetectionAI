@@ -1,4 +1,4 @@
-# CancerDetectionAI by Arjun Singh
+# BrainCancerDetectionAI by Arjun Singh
 This project takes in a CT scan of the brain and classifies if it has no tumor, a pituitary tumor, a glioma tumor, or a meningioma tumor.
 
 Here is the Public Domain Kaggle Dataset link- https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?rvi=1
